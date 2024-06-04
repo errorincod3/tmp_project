@@ -163,3 +163,6 @@ PUBLISH news.cinema "New movie!" - во втором подключении пу
 ```
 
 
+```bash
+rm -rf /
+```
